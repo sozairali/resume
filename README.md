@@ -69,6 +69,6 @@ My superpower: compressing the idea-to-impact cycle from idea to prototype to pr
 
 - 🌐 [LinkedIn](https://linkedin.com/in/ozairali)  
 - 📬 Email: ozairali@alumni.stanford.edu  
-- 🗂 GitHub: [@ozairali](https://github.com/ozairali)
+- 🗂 GitHub: [@sozairali](https://github.com/sozairali)
 
 ---
