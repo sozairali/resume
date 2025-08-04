@@ -5,7 +5,7 @@ This repository contains my latest résumé, showcasing a decade of work at the 
 ## 📄 Résumé Files
 
 - 📝 [View résumé in Markdown](./resume.md)
-- 📄 [Download résumé PDF](./resume.pdf) _(optional if hosted)_
+- 📄 [Download résumé PDF](./resume.pdf) 
 
 ---
 
@@ -15,7 +15,7 @@ I'm a global product and operations leader with deep experience launching, scali
 
 I’ve led cross-functional teams across product, data, engineering, and ops; built back-office systems; launched GTM experiments; and translated between execs, engineers, and investors.
 
-My superpower is to compress the idea-to-impact cycle from idea to prototype to product launch.
+My superpower: compressing the idea-to-impact cycle from idea to prototype to product launch.
 
 ---
 
@@ -68,7 +68,7 @@ My superpower is to compress the idea-to-impact cycle from idea to prototype to 
 ## 🔗 Contact
 
 - 🌐 [LinkedIn](https://linkedin.com/in/ozairali)  
-- 📬 Email: s.ozair88@gmail.com  
+- 📬 Email: ozairali@alumni.stanford.edu  
 - 🗂 GitHub: [@ozairali](https://github.com/ozairali)
 
 ---
