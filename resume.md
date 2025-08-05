@@ -7,7 +7,7 @@ Led cross-functional teams, launched in 11+ countries, and supported category-le
 Pedigree: Stanford GSB (MBA), Harvard (MPA/ID), Wharton (BS). Accelerator traction: Snowflake Startup Accelerator (2025) and C10 Labs, an MIT-affiliated AI-first accelerator (2024).
 
 ## CORE SKILLS
-Product Management; Product Strategy; PMF; Customer Discovery; JTBD; MVP; Roadmap; Prototyping; UX; Onboarding; Activation; A/B Testing; Experiment Design; Analytics; Python; Pandas; scikit-learn (applied); LLMs; LangChain; Probabilistic Data Structures (HyperLogLog subset filter, Bloom Filter); Go-to-Market; Outbound; Partnerships; Metrics; CAC/LTV; Cross-functional Leadership; Global Operations; Compliance; SOC 2
+PMF • Customer discovery • JTBD • Rapid prototyping • Onboarding/activation • A/B testing (small-N) • Python • LangChain/LLMs • Probabilistic DS (HLL subset filter, Bloom) • GTM experiments • Cross-functional leadership • Global ops
 
 ## EXPERIENCE
 
