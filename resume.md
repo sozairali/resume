@@ -2,7 +2,11 @@
 Cambridge, MA • ozairali@alumni.stanford.edu • https://linkedin.com/in/ozairali • https://github.com/sozairali
 
 ## PROFESSIONAL SUMMARY
-Product management and strategy leader at the intersection of data, AI, and global operations. I compress the product-market-fit (PMF) loop—customer discovery, quantitative validation, rapid prototyping, UX/onboarding, and lean go-to-market (GTM). Pedigree includes Stanford GSB (MBA), Harvard Kennedy School (MPA/ID), and Wharton (BS). Led cross-functional teams across engineering, design, data, and ops; launched and scaled programs in 11+ countries; invested in and supported category-leading startups. Quantitative background in econometrics, A/B testing, and funnel analytics; technical fluency in Python, LangChain and probabilistic data structures (Bloom, HyperLogLog).
+Product management and strategy leader at the intersection of data, AI, and global operations. I compress the product-market-fit (PMF) loop—customer discovery, quantitative validation, rapid prototyping, UX/onboarding, and lean go-to-market (GTM).
+
+Led cross-functional teams across engineering, design, data, and ops; launched and scaled programs in 11+ countries; invested in and supported category-leading startups. 
+
+Quantitative background in econometrics, A/B testing, and funnel analytics; technical fluency in Python, LangChain and probabilistic data structures (Bloom, HyperLogLog).
 
 ## EXPERIENCE
 
@@ -39,12 +43,12 @@ Central Bank of Pakistan • Consultant, Dalberg • Government of Albania (Harv
 - **Investor & Executive Narrative:** Developed evidence-based stories linking technical benchmarks and UX outcomes to business value; supported fundraising and partner diligence.
 
 ## EDUCATION
-- **Stanford Graduate School of Business** — MBA  
+- **Stanford Graduate School of Business** — MBA (incl. coursework in Big Data) 
 - **Harvard Kennedy School** — MPA/ID (Econometrics, Development Economics)  
 - **University of Pennsylvania, Wharton School** — BS Information Systems, Minors in Mathematics, Economics, Psychology; Magna Cum Laude
 
 ## TECHNICAL SKILLS
-Python • SQL • Pandas • Scikit-learn (applied) • Git • Jupyter • Probabilistic Data Structures • Experimentation & Small-N A/B Testing • Analytics
+Python • LangChain • Pandas • Scikit-learn (applied) • Git • Jupyter • Probabilistic Data Structures • Experimentation & Small-N A/B Testing • Analytics
 
 ## PROJECTS / ARTIFACTS
 - **Probabilistic Sketching Module:** Bloom vs. HLL benchmark and adoption rationale; supports high-QPS distinct counts and mergeable telemetry for joins.
@@ -53,4 +57,4 @@ Python • SQL • Pandas • Scikit-learn (applied) • Git • Jupyter • Pro
 - **Back-Office Launch Kit:** Repeatable setup for cards, HRIS/payroll, accounting, benefits, and SOC 2 readiness across multiple geographies.
 
 ## ADDITIONAL
-Cross-functional leadership • Remote and distributed team management • Public speaking and workshops (data/AI product strategy)
+Cross-functional leadership • Remote and distributed team management • Workshops on LLMs for data professionals
