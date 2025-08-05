@@ -1,4 +1,4 @@
-name: Build PDF Resume
+name: Build PDF Resume (LaTeX, compact)
 
 on:
   push:
@@ -18,20 +18,28 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Install pandoc and wkhtmltopdf
+      - name: Install pandoc + TeX Live (XeLaTeX)
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc wkhtmltopdf
+          sudo apt-get install -y \
+            pandoc \
+            texlive-latex-recommended \
+            texlive-latex-extra \
+            texlive-fonts-recommended \
+            texlive-xetex
 
       - name: Ensure exports directory
         run: mkdir -p exports
 
-      - name: Build PDF (no CSS)
+      - name: Build PDF with XeLaTeX (compact margins)
         run: |
           pandoc resume.md -o exports/resume.pdf \
             --from=gfm \
-            --pdf-engine=wkhtmltopdf \
-            -V margin-top=10mm -V margin-bottom=10mm -V margin-left=8mm -V margin-right=8mm
+            --pdf-engine=xelatex \
+            -V geometry:letterpaper \
+            -V geometry:margin=14mm \
+            -V geometry:heightrounded \
+            -V fontsize=10pt
 
       - name: Commit PDF back to repo
         run: |
@@ -39,7 +47,7 @@ jobs:
             git config user.name "github-actions"
             git config user.email "actions@users.noreply.github.com"
             git add exports/resume.pdf
-            git commit -m "Build PDF from resume.md [skip ci]"
+            git commit -m "Build compact PDF from resume.md [skip ci]"
             git push
           else
             echo "No PDF changes to commit."
