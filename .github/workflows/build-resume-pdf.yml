@@ -31,7 +31,7 @@ jobs:
           pandoc resume.md -o exports/resume.pdf \
             --from=gfm \
             --pdf-engine=wkhtmltopdf \
-            -V margin-top=20mm -V margin-bottom=20mm -V margin-left=16mm -V margin-right=16mm
+            -V margin-top=15mm -V margin-bottom=15mm -V margin-left=12mm -V margin-right=12mm
 
       - name: Commit PDF back to repo
         run: |
