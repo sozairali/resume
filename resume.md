@@ -2,11 +2,9 @@
 Cambridge, MA • ozairali@alumni.stanford.edu • https://linkedin.com/in/ozairali • https://github.com/sozairali
 
 ## PROFESSIONAL SUMMARY
-Product management and strategy leader at the intersection of data, AI, and global operations. I compress the product-market-fit (PMF) loop—customer discovery, quantitative validation, rapid prototyping, UX/onboarding, and lean go-to-market (GTM).
-
-Led cross-functional teams across engineering, design, data, and ops; launched and scaled programs in 11+ countries; invested in and supported category-leading startups. 
-
-Quantitative background in econometrics, A/B testing, and funnel analytics; technical fluency in Python, LangChain and probabilistic data structures (Bloom, HyperLogLog).
+Product & strategy leader for data/AI who **compresses the PMF loop** (customer discovery → quantitative validation → rapid prototyping → UX/onboarding → lean GTM).  
+Led cross-functional teams (engineering, design, data, ops) and launched programs in **11+ countries**; invested in and supported category-leading startups.  
+Quantitative + technical: **Python**, **econometrics**, **A/B testing**, **funnel analytics**; **LangChain**, and probabilistic data structures (**Bloom**, **HyperLogLog**).
 
 ## EXPERIENCE
 
