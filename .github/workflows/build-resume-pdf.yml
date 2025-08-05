@@ -1,0 +1,52 @@
+name: Build PDF Resume
+
+on:
+  push:
+    branches: [ main, master ]
+    paths:
+      - 'resume.md'
+      - '.github/workflows/build-resume-pdf.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install pandoc and wkhtmltopdf
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc wkhtmltopdf
+
+      - name: Ensure exports directory
+        run: mkdir -p exports
+
+      - name: Build PDF (no CSS)
+        run: |
+          pandoc resume.md -o exports/resume.pdf \
+            --from=gfm \
+            --pdf-engine=wkhtmltopdf \
+            -V margin-top=20mm -V margin-bottom=20mm -V margin-left=16mm -V margin-right=16mm
+
+      - name: Commit PDF back to repo
+        run: |
+          if [ -n "$(git status --porcelain exports/resume.pdf)" ]; then
+            git config user.name "github-actions"
+            git config user.email "actions@users.noreply.github.com"
+            git add exports/resume.pdf
+            git commit -m "Build PDF from resume.md [skip ci]"
+            git push
+          else
+            echo "No PDF changes to commit."
+          fi
+
+      - name: Upload PDF as artifact (optional)
+        uses: actions/upload-artifact@v4
+        with:
+          name: resume-pdf
+          path: exports/resume.pdf
