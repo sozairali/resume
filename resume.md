@@ -47,7 +47,7 @@ Central Bank of Pakistan; Consultant, Dalberg; Government of Albania (Harvard CI
 ## EDUCATION
 - **Stanford Graduate School of Business** — MBA (incl. Big Data coursework)
 - **Harvard Kennedy School** — MPA/ID (Econometrics, Development Economics)  
-- **University of Pennsylvania, Wharton School** — BS in Economics (Information Systems; minors in Mathematics, Economics, Psychology), Magna Cum Laude
+- **University of Pennsylvania, Wharton School** — BS in Information Management, Finance; minors in Mathematics, Economics, Psychology), Magna Cum Laude
 
 ## TECHNICAL SKILLS
 Python; Pandas; scikit-learn (applied); Git; Jupyter; LLM tooling (LangChain); Probabilistic Data Structures (HyperLogLog subset filter, Bloom); Experimentation and A/B testing; Analytics
