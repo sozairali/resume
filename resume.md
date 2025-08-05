@@ -22,15 +22,15 @@ Cambridge, MA (U.S.) • 2024 – Present
 
 ### Global Head of Investments & New Ventures — Rayn
 Remote • 2021 – 2023
-- Incubated and invested in new ventures; **worked on the eKai technology platform starting in 2022** (prior to 2024 launch): scoped feasibility, wrote PRDs, defined MVP, and partnered with engineering/design on prototypes and benchmarks.
-- Built product narratives and investor materials; evaluated PMF risk, pricing, and initial GTM; led U.S. strategy and cross-functional hiring.
+- Incubated and invested in new ventures; **worked on the eKai technology platform starting in 2022** (prior to 2024 launch): scoped feasibility, defined MVP, and partnered with engineering/design on prototypes.
+- Built product narratives and investor materials; laid PMF metrics (paid conversions), pricing, and initial GTM; led U.S. strategy and cross-functional hiring.
 - Advised portfolio across fintech, logistics, education, and AI on experimentation frameworks, KPIs, onboarding, and founder-led GTM.
 
 ### Co-Founder & COO / Advisor — [Alter Global](https://alter.vc) (https://alter.vc)
 San Francisco, Cambridge, and international • 2016 – 2020; Advisor 2021 – Present
 - Launched operations in **11+ countries**; authored GTM/HR/finance/compliance playbooks; managed distributed cross-functional teams across time zones.
 - Sourced and supported early-stage investments; supported fundraising efforts as the organization raised **~$17M** during tenure.
-- Early backer support for founders who became category leaders (e.g., Bazaar, Kargo); provided customer discovery and talent coaching.
+- Early backer support for founders who became category leaders (e.g., Bazaar, Kargo)
 
 ### Earlier Roles (Selected)
 Central Bank of Pakistan; Consultant, Dalberg; Government of Albania (Harvard CID); BMA Capital  
@@ -39,18 +39,18 @@ Central Bank of Pakistan; Consultant, Dalberg; Government of Albania (Harvard CI
 ## SELECTED ACHIEVEMENTS
 - **PMF loop compression:** Discovery -> prototype -> GTM with instrumented funnels and A/B-style tests to prioritize features and cut time-to-signal.
 - **Activation:** "Onboarding agent" UX drove >90% independent completion (test) and >95% demo->onboarding sign-ups.
-- **Probabilistic subset checks:** Bloom -> **HLL** adoption for **register-dominance subset filtering** supporting FK->PK recommendation checks at high throughput.
+- **Probabilistic subset checks:** Bloom -> **HLL** adoption for **subset filtering** supporting recommendation checks at high throughput.
 - **GTM under small-N:** Channel log (events, outbound, partners) identified highest-signal messaging; CAC proxy guided spend and focus.
 - **Global operations:** Back office and compliance rails in 11+ markets increased speed of product feedback cycles.
 - **Fundraising & narrative:** 100+ investor meetings; closed **$300K** pre-seed at eKai; supported **~$17M** raised at Alter Global with evidence-based storytelling.
 
 ## EDUCATION
-- **Stanford Graduate School of Business** — MBA  
+- **Stanford Graduate School of Business** — MBA (incl. Big Data coursework)
 - **Harvard Kennedy School** — MPA/ID (Econometrics, Development Economics)  
 - **University of Pennsylvania, Wharton School** — BS in Economics (Information Systems; minors in Mathematics, Economics, Psychology), Magna Cum Laude
 
 ## TECHNICAL SKILLS
-Python; Pandas; scikit-learn (applied); Git; Jupyter; LLM tooling (LangChain); Probabilistic Data Structures (HyperLogLog subset filter, Bloom); Experimentation and small-N A/B testing; Analytics; Figma; Notion; Jira
+Python; Pandas; scikit-learn (applied); Git; Jupyter; LLM tooling (LangChain); Probabilistic Data Structures (HyperLogLog subset filter, Bloom); Experimentation and A/B testing; Analytics
 
 ## PROJECTS / ARTIFACTS
 - **Probabilistic subset module:** Bloom vs HLL register-dominance filter and adoption rationale.  
