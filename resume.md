@@ -18,7 +18,7 @@ Cambridge, MA (U.S.) • 2024 – Present
 - GTM experiments: Ran small-N sprints (events, outbound, partners); built funnel tracker (reply %, meetings, CAC proxy); codified keep/kill/iterate decisions to accelerate PMF learning.
 - Fundraising: Raised **$300K** pre-seed; built data room and evidence-based investor narrative.
 - Ops: Implemented banking, HRIS/payroll, accounting, and compliance -> reduced founder ops time from ~8–10 hrs/wk to ~1 hr/wk.
-- Traction: **4 enterprise design partnerships**; accepted into **Snowflake Startup Accelerator (2025)** and **C10** (MIT-affiliated AI accelerator, **2024**).
+- Traction: **4 enterprise pilots**; accepted into **Snowflake Startup Accelerator (2025)** and **C10** (MIT-affiliated AI accelerator, **2024**).
 
 ### Global Head of Investments & New Ventures — Rayn
 Remote • 2021 – 2023
