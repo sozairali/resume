@@ -1,38 +1,34 @@
 # Ozair Ali
-Cambridge, MA • s.ozair88@gmail.com • https://linkedin.com/in/ozairali • https://github.com/ozairali
+Cambridge, MA • ozairali@alumni.stanford.edu • https://linkedin.com/in/ozairali • https://github.com/sozairali
 
 ## PROFESSIONAL SUMMARY
 Product management and strategy leader at the intersection of data, AI, and global operations. I compress the product-market-fit (PMF) loop—customer discovery, quantitative validation, rapid prototyping, UX/onboarding, and lean go-to-market (GTM). Pedigree includes Stanford GSB (MBA), Harvard Kennedy School (MPA/ID), and Wharton (BS). Led cross-functional teams across engineering, design, data, and ops; launched and scaled programs in 11+ countries; invested in and supported category-leading startups. Quantitative background in econometrics, A/B testing, and funnel analytics; technical fluency in Python, SQL, and probabilistic data structures (Bloom, HyperLogLog).
 
-## CORE COMPETENCIES (ATS KEYWORDS)
-Product Management • Product Strategy • Customer Discovery • User Research • Jobs-to-Be-Done • MVP • Roadmap • Prototyping • UX • Onboarding • Activation • Retention • A/B Testing • Experiment Design • Data Analytics • SQL • Python • Data Infrastructure • Machine Learning (applied) • HyperLogLog • Bloom Filter • GTM • Outbound • Partnerships • Pricing • Metrics • CAC/LTV • Cross-functional Leadership • Stakeholder Management • Global Operations • Compliance • SOC 2 • Agile • Jira • Figma • Notion
-
 ## EXPERIENCE
 
-### Co-Founder / Product & Operations — [eKai](https://ekai.ai)(AI / Data Analytics)
+### Co-Founder / Fundraising, Product, GTM & Operations — [eKai](https://ekai.ai)(AI / Data Analytics)
 Remote (U.S.) • 2024–Present
-- Owned end-to-end product management from discovery to MVP launch; defined roadmap, PRDs, and success metrics for data/AI workflows.
 - Led structured interviews and JTBD synthesis; redesigned onboarding with guided “agent” flow to increase independent completion (testing >90% completion; demo→onboarding sign-ups >95%).
-- Prototyped probabilistic sketching (Bloom baseline; adopted HyperLogLog for speed/accuracy-per-byte) to enable high-throughput distinct counts and telemetry for FK–PK recommendations.
+- Prototyped probabilistic data structures (Bloom baseline; adopted HyperLogLog based on speed/accuracy tradeoff) to enable high-throughput subset calculations for FK–PK recommendations.
 - Ran small-N GTM experiments (events, outbound, partner demos); built funnel tracker with reply, meeting, and CAC proxy metrics; codified keep/kill/iterate decisions for PMF.
-- Built early sales-readiness and ops stack (banking, HRIS/payroll, accounting, compliance) to reduce founder toil and accelerate enterprise readiness.
+- Raised 300k in pre-seed financing
+- Built early sales-readiness and ops stack (banking, HRIS/payroll, accounting, compliance) to reduce time on ops stack to 1 hr/week.
 - Accepted into **Snowflake Startup Accelerator (2025)** and **C10 – MIT-affiliated AI-first accelerator (2024)**
 
 ### Global Head of Investments & New Ventures — Rayn
-Remote • 2021–2024
+Remote • 2021–2023
 - Incubated and led new ventures; **worked on the eKai technology platform starting in 2022** (prior to company launch in 2024): scoped technical feasibility, wrote product briefs, defined MVP, and partnered with engineering on prototypes and benchmarks.
-- Built product narratives and investor materials; evaluated PMF risk, pricing, and initial GTM; supported U.S. strategy and cross-functional hiring.
+- Built product narratives and investor materials; evaluated PMF risk, pricing, and initial GTM; led U.S. strategy and cross-functional hiring.
 - Advised portfolio companies across sectors (fintech, logistics, education, AI) on experimentation frameworks, KPIs, onboarding, and founder-led GTM.
 
 ### Co-Founder & COO / Advisor — [Alter Global](https://alter.vc)
 San Francisco, Boston, and international • 2016–2020; Advisor 2021–Present
-- Launched operations across **11+ countries**; localized GTM, talent, HR, finance, and compliance; managed distributed cross-functional teams across time zones.
-- Sourced and supported early-stage investments; worked with founders who became category leaders in multiple markets.
-- Built repeatable operating playbooks and founder readiness programs; coached CEOs on customer discovery, recruiting, and investor communications.
+- Launched operations across **11+ countries**; wrote playbook for localized GTM, talent, HR, finance, and compliance; managed distributed cross-functional teams across time zones.
+- Sourced and supported early-stage investments; worked with founders who became 100M+ category leaders in multiple markets [Bazaar](https://www.bazaartech.com/) [Kargo](https://www.kargo.tech/en).
 
 ### Earlier Roles (Selected)
-State Bank of Pakistan • Consultant, Dalberg • Government of Albania (Harvard CID) • BMA Capital  
-- Time-series forecasting models for macroeconomic indicators; strategy, market design, and analytics for public- and private-sector initiatives
+Central Bank of Pakistan • Consultant, Dalberg • Government of Albania (Harvard CID) • BMA Capital  
+- Time-series forecasting models for macroeconomic indicators; strategy, electricity market design, and analytics for public- and private-sector initiatives
 
 ## SELECTED ACHIEVEMENTS
 - **PMF Loop Compression:** Designed and executed discovery→prototype→GTM loops for data/AI product; instrumented funnels and A/B style tests to prioritize features and reduce time-to-insight.
