@@ -1,5 +1,5 @@
 # Ozair Ali
-Cambridge, MA • ozairali@alumni.stanford.edu • https://linkedin.com/in/ozairali • https://github.com/sozairali
+Cambridge, MA • ozairali@alumni.stanford.edu • https://linkedin.com/in/ozairali • https://github.com/sozairali • +1-646-789-1373
 
 ## PROFESSIONAL SUMMARY
 Product and strategy leader for data/AI who compresses the PMF loop (discovery -> quantitative validation -> prototyping -> UX/onboarding -> lean GTM).  
@@ -11,14 +11,14 @@ PMF • Customer discovery • JTBD • Rapid prototyping • Onboarding/activat
 
 ## EXPERIENCE
 
-### Co-Founder — Fundraising, Product, GTM & Operations — [eKai](https://ekai.ai) (https://ekai.ai)
+### Co-Founder — Product, GTM, Operations & Fundraising — [eKai](https://ekai.ai) (https://ekai.ai)
 Cambridge, MA (U.S.) • 2024 – Present
 - User discovery -> UX: Ran structured interviews and JTBD synthesis; shipped guided "onboarding agent" flow -> >90% independent completion in testing and >95% demo->onboarding sign-ups.
-- Data sketching: Built Bloom baseline; adopted **HyperLogLog** for a **probabilistic subset filter** (register-dominance) to enable fast FK->PK recommendation checks under latency and memory constraints.
+- Data sketching: Built **Bloom filter** baseline; adopted **HyperLogLog** for a **probabilistic subset filter** to enable fast recommendation checks under latency and memory constraints.
 - GTM experiments: Ran small-N sprints (events, outbound, partners); built funnel tracker (reply %, meetings, CAC proxy); codified keep/kill/iterate decisions to accelerate PMF learning.
 - Fundraising: Raised **$300K** pre-seed; built data room and evidence-based investor narrative.
 - Ops: Implemented banking, HRIS/payroll, accounting, and compliance -> reduced founder ops time from ~8–10 hrs/wk to ~1 hr/wk.
-- Traction: Accepted into **Snowflake Startup Accelerator (2025)** and **C10** (MIT-affiliated AI accelerator, **2024**).
+- Traction: **4 enterprise design partnerships**; accepted into **Snowflake Startup Accelerator (2025)** and **C10** (MIT-affiliated AI accelerator, **2024**).
 
 ### Global Head of Investments & New Ventures — Rayn
 Remote • 2021 – 2023
