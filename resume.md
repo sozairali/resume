@@ -2,7 +2,7 @@
 Cambridge, MA • ozairali@alumni.stanford.edu • https://linkedin.com/in/ozairali • https://github.com/sozairali
 
 ## PROFESSIONAL SUMMARY
-Product management and strategy leader at the intersection of data, AI, and global operations. I compress the product-market-fit (PMF) loop—customer discovery, quantitative validation, rapid prototyping, UX/onboarding, and lean go-to-market (GTM). Pedigree includes Stanford GSB (MBA), Harvard Kennedy School (MPA/ID), and Wharton (BS). Led cross-functional teams across engineering, design, data, and ops; launched and scaled programs in 11+ countries; invested in and supported category-leading startups. Quantitative background in econometrics, A/B testing, and funnel analytics; technical fluency in Python, SQL, and probabilistic data structures (Bloom, HyperLogLog).
+Product management and strategy leader at the intersection of data, AI, and global operations. I compress the product-market-fit (PMF) loop—customer discovery, quantitative validation, rapid prototyping, UX/onboarding, and lean go-to-market (GTM). Pedigree includes Stanford GSB (MBA), Harvard Kennedy School (MPA/ID), and Wharton (BS). Led cross-functional teams across engineering, design, data, and ops; launched and scaled programs in 11+ countries; invested in and supported category-leading startups. Quantitative background in econometrics, A/B testing, and funnel analytics; technical fluency in Python, LangChain and probabilistic data structures (Bloom, HyperLogLog).
 
 ## EXPERIENCE
 
@@ -17,23 +17,23 @@ Remote (U.S.) • 2024–Present
 
 ### Global Head of Investments & New Ventures — Rayn
 Remote • 2021–2023
-- Incubated and led new ventures; **worked on the eKai technology platform starting in 2022** (prior to company launch in 2024): scoped technical feasibility, wrote product briefs, defined MVP, and partnered with engineering on prototypes and benchmarks.
+- Incubated and invested in new ventures; **worked on the eKai technology platform starting in 2022** (prior to company launch in 2024): scoped technical feasibility, wrote product briefs, defined MVP, and partnered with engineering on prototypes and benchmarks.
 - Built product narratives and investor materials; evaluated PMF risk, pricing, and initial GTM; led U.S. strategy and cross-functional hiring.
 - Advised portfolio companies across sectors (fintech, logistics, education, AI) on experimentation frameworks, KPIs, onboarding, and founder-led GTM.
 
 ### Co-Founder & COO / Advisor — [Alter Global](https://alter.vc)
 San Francisco, Boston, and international • 2016–2020; Advisor 2021–Present
 - Launched operations across **11+ countries**; wrote playbook for localized GTM, talent, HR, finance, and compliance; managed distributed cross-functional teams across time zones.
-- Sourced and supported early-stage investments; worked with founders who became 100M+ category leaders in multiple markets [Bazaar](https://www.bazaartech.com/) [Kargo](https://www.kargo.tech/en).
+- Sourced and supported early-stage investments; early investor in founders who became 100M+ category leaders in multiple markets [Bazaar](https://www.bazaartech.com/) [Kargo](https://www.kargo.tech/en).
 
 ### Earlier Roles (Selected)
 Central Bank of Pakistan • Consultant, Dalberg • Government of Albania (Harvard CID) • BMA Capital  
 - Time-series forecasting models for macroeconomic indicators; strategy, electricity market design, and analytics for public- and private-sector initiatives
 
 ## SELECTED ACHIEVEMENTS
-- **PMF Loop Compression:** Designed and executed discovery→prototype→GTM loops for data/AI product; instrumented funnels and A/B style tests to prioritize features and reduce time-to-insight.
+- **PMF Loop Compression:** Designed and executed discovery→prototype→GTM loops for data/AI products; instrumented funnels and A/B style tests to prioritize features and reduce time-to-insight.
 - **Onboarding & Activation:** “Onboarding agent” concept and UX flow increased independent completion in testing (>90%) and maintained high demo→onboarding conversion (>95%).
-- **Probabilistic Data Structures:** Implemented Bloom filter baseline and migrated to HyperLogLog for distinct counting; achieved lower memory footprint and higher throughput to meet strict latency SLAs.
+- **Probabilistic Data Structures:** Implemented Bloom filter baseline and migrated to HyperLogLog for subset calculations for achieved lower memory footprint and higher throughput to meet strict latency SLAs.
 - **GTM Learning Under Small-N:** Built channel experiment log (events, LinkedIn outbound, partners); identified compliance- and infra-led messaging as highest signal; created CAC proxy to prioritize spend.
 - **Global Operator:** Stood up back-office and compliance rails across 11+ markets; reduced operational risk and accelerated enterprise sales cycles.
 - **Investor & Executive Narrative:** Developed evidence-based stories linking technical benchmarks and UX outcomes to business value; supported fundraising and partner diligence.
