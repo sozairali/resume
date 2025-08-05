@@ -45,9 +45,9 @@ Central Bank of Pakistan; Consultant, Dalberg; Government of Albania (Harvard CI
 - **Fundraising & narrative:** 100+ investor meetings; closed **$300K** pre-seed at eKai; supported **~$17M** raised at Alter Global with evidence-based storytelling.
 
 ## EDUCATION
-- **Stanford Graduate School of Business** — MBA (incl. Big Data coursework)
-- **Harvard Kennedy School** — MPA/ID (Econometrics, Development Economics)  
-- **University of Pennsylvania, Wharton School** — BS in Information Management, Finance; minors in Mathematics, Economics, Psychology), Magna Cum Laude
+- **Stanford Graduate School of Business** — MBA (incl. Big Data coursework) • Jun 2016
+- **Harvard Kennedy School** — MPA/ID (Econometrics, Development Economics) • Jun 2016
+- **University of Pennsylvania, Wharton School** — BS in Information Management, Finance; minors in Mathematics, Economics, Psychology), Magna Cum Laude • May 2010
 
 ## TECHNICAL SKILLS
 Python; Pandas; scikit-learn (applied); Git; Jupyter; LLM tooling (LangChain); Probabilistic Data Structures (HyperLogLog subset filter, Bloom); Experimentation and A/B testing; Analytics
