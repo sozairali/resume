@@ -2,57 +2,61 @@
 Cambridge, MA • ozairali@alumni.stanford.edu • https://linkedin.com/in/ozairali • https://github.com/sozairali
 
 ## PROFESSIONAL SUMMARY
-Product & strategy leader for data/AI who **compresses the PMF loop** (customer discovery → quantitative validation → rapid prototyping → UX/onboarding → lean GTM).  
-Led cross-functional teams (engineering, design, data, ops) and launched programs in **11+ countries**; invested in and supported category-leading startups.  
-Quantitative + technical: **Python**, **econometrics**, **A/B testing**, **funnel analytics**; **LangChain**, and probabilistic data structures (**Bloom**, **HyperLogLog**).
+Product and strategy leader for data/AI who compresses the PMF loop (discovery -> quantitative validation -> prototyping -> UX/onboarding -> lean GTM).  
+Led cross-functional teams, launched in 11+ countries, and supported category-leading founders and investments.  
+Pedigree: Stanford GSB (MBA), Harvard (MPA/ID), Wharton (BS). Accelerator traction: Snowflake Startup Accelerator (2025) and C10 Labs, an MIT-affiliated AI-first accelerator (2024).
+
+## CORE SKILLS
+Product Management; Product Strategy; PMF; Customer Discovery; JTBD; MVP; Roadmap; Prototyping; UX; Onboarding; Activation; A/B Testing; Experiment Design; Analytics; Python; Pandas; scikit-learn (applied); LLMs; LangChain; Probabilistic Data Structures (HyperLogLog subset filter, Bloom Filter); Go-to-Market; Outbound; Partnerships; Metrics; CAC/LTV; Cross-functional Leadership; Global Operations; Compliance; SOC 2
 
 ## EXPERIENCE
 
-### Co-Founder / Fundraising, Product, GTM & Operations — [eKai](https://ekai.ai)(AI / Data Analytics)
-Cambridge, MA (U.S.) • 2024–Present
-- Led structured interviews and JTBD synthesis; redesigned onboarding with guided “agent” flow to increase independent completion (testing >90% completion; demo→onboarding sign-ups >95%).
-- Prototyped probabilistic data structures (Bloom baseline; adopted HyperLogLog based on speed/accuracy tradeoff) to enable high-throughput subset calculations for FK–PK recommendations.
-- Ran small-N GTM experiments (events, outbound, partner demos); built funnel tracker with reply, meeting, and CAC proxy metrics; codified keep/kill/iterate decisions for PMF.
-- Raised 300k in pre-seed financing
-- Built early sales-readiness and ops stack (banking, HRIS/payroll, accounting, compliance) to reduce time on ops stack to 1 hr/week.
-- Accepted into **Snowflake Startup Accelerator (2025)** and **C10 – MIT-affiliated AI-first accelerator (2024)**
+### Co-Founder — Fundraising, Product, GTM & Operations — [eKai](https://ekai.ai) (https://ekai.ai)
+Cambridge, MA (U.S.) • 2024 – Present
+- User discovery -> UX: Ran structured interviews and JTBD synthesis; shipped guided "onboarding agent" flow -> >90% independent completion in testing and >95% demo->onboarding sign-ups.
+- Data sketching: Built Bloom baseline; adopted **HyperLogLog** for a **probabilistic subset filter** (register-dominance) to enable fast FK->PK recommendation checks under latency and memory constraints.
+- GTM experiments: Ran small-N sprints (events, outbound, partners); built funnel tracker (reply %, meetings, CAC proxy); codified keep/kill/iterate decisions to accelerate PMF learning.
+- Fundraising: Raised **$300K** pre-seed; built data room and evidence-based investor narrative.
+- Ops: Implemented banking, HRIS/payroll, accounting, and compliance -> reduced founder ops time from ~8–10 hrs/wk to ~1 hr/wk.
+- Traction: Accepted into **Snowflake Startup Accelerator (2025)** and **C10** (MIT-affiliated AI accelerator, **2024**).
 
 ### Global Head of Investments & New Ventures — Rayn
-Remote • 2021–2023
-- Incubated and invested in new ventures; **worked on the eKai technology platform starting in 2022** (prior to company launch in 2024): scoped feasibility, wrote product briefs, defined MVP, and worked with engineering and design on prototypes and benchmarks.
+Remote • 2021 – 2023
+- Incubated and invested in new ventures; **worked on the eKai technology platform starting in 2022** (prior to 2024 launch): scoped feasibility, wrote PRDs, defined MVP, and partnered with engineering/design on prototypes and benchmarks.
 - Built product narratives and investor materials; evaluated PMF risk, pricing, and initial GTM; led U.S. strategy and cross-functional hiring.
-- Advised portfolio companies across sectors (fintech, logistics, education, AI) on experimentation frameworks, KPIs, onboarding, and founder-led GTM.
+- Advised portfolio across fintech, logistics, education, and AI on experimentation frameworks, KPIs, onboarding, and founder-led GTM.
 
-### Co-Founder & COO / Advisor — [Alter Global](https://alter.vc)
-San Francisco, Cambridge, and international (10 countries) • 2016–2020; Advisor 2021–Present
-- Launched operations across **11+ countries**; wrote playbook for localized GTM, talent, HR, finance, and compliance; managed distributed cross-functional teams across time zones.
-- Sourced and supported early-stage investments; early investor in founders who became 100M+ category leaders in multiple markets [Bazaar](https://www.bazaartech.com/) [Kargo](https://www.kargo.tech/en).
+### Co-Founder & COO / Advisor — [Alter Global](https://alter.vc) (https://alter.vc)
+San Francisco, Cambridge, and international • 2016 – 2020; Advisor 2021 – Present
+- Launched operations in **11+ countries**; authored GTM/HR/finance/compliance playbooks; managed distributed cross-functional teams across time zones.
+- Sourced and supported early-stage investments; supported fundraising efforts as the organization raised **~$17M** during tenure.
+- Early backer support for founders who became category leaders (e.g., Bazaar, Kargo); provided customer discovery and talent coaching.
 
 ### Earlier Roles (Selected)
-Central Bank of Pakistan • Consultant, Dalberg • Government of Albania (Harvard CID) • BMA Capital  
-- Time-series forecasting models for macroeconomic indicators; strategy, electricity market design, and analytics for public- and private-sector initiatives
+Central Bank of Pakistan; Consultant, Dalberg; Government of Albania (Harvard CID); BMA Capital  
+- Built time-series forecasting models for macro indicators; delivered strategy, market design, and analytics for public- and private-sector initiatives.
 
 ## SELECTED ACHIEVEMENTS
-- **PMF Loop Compression:** Designed and executed discovery→prototype→GTM loops for data/AI products; instrumented funnels and A/B style tests to prioritize features and reduce time-to-insight.
-- **Onboarding & Activation:** “Onboarding agent” concept and UX flow increased independent completion in testing (>90%) and maintained high demo→onboarding conversion (>95%).
-- **Probabilistic Data Structures:** Implemented Bloom filter baseline and migrated to HyperLogLog for subset calculations based on speed/accuracy tradeoffs.
-- **GTM Learning Under Small-N:** Built channel experiment log (events, LinkedIn outbound, partners); identified "data prototyping" messaging as highest signal; created CAC proxy to prioritize spend.
-- **Global Operator:** Stood up back-office and compliance rails across 11+ markets; reduced operational risk while increasing product feedback cycles.
-- **Investor & Executive Narrative:** Developed evidence-based stories linking technical benchmarks and UX outcomes to business value; led fundraising with 100+ investors.
+- **PMF loop compression:** Discovery -> prototype -> GTM with instrumented funnels and A/B-style tests to prioritize features and cut time-to-signal.
+- **Activation:** "Onboarding agent" UX drove >90% independent completion (test) and >95% demo->onboarding sign-ups.
+- **Probabilistic subset checks:** Bloom -> **HLL** adoption for **register-dominance subset filtering** supporting FK->PK recommendation checks at high throughput.
+- **GTM under small-N:** Channel log (events, outbound, partners) identified highest-signal messaging; CAC proxy guided spend and focus.
+- **Global operations:** Back office and compliance rails in 11+ markets increased speed of product feedback cycles.
+- **Fundraising & narrative:** 100+ investor meetings; closed **$300K** pre-seed at eKai; supported **~$17M** raised at Alter Global with evidence-based storytelling.
 
 ## EDUCATION
-- **Stanford Graduate School of Business** — MBA (incl. coursework in Big Data) 
+- **Stanford Graduate School of Business** — MBA  
 - **Harvard Kennedy School** — MPA/ID (Econometrics, Development Economics)  
-- **University of Pennsylvania, Wharton School** — BS Information Systems, Minors in Mathematics, Economics, Psychology; Magna Cum Laude
+- **University of Pennsylvania, Wharton School** — BS in Economics (Information Systems; minors in Mathematics, Economics, Psychology), Magna Cum Laude
 
 ## TECHNICAL SKILLS
-Python • LangChain • Pandas • Scikit-learn (applied) • Git • Jupyter • Probabilistic Data Structures • Experimentation & Small-N A/B Testing • Analytics
+Python; Pandas; scikit-learn (applied); Git; Jupyter; LLM tooling (LangChain); Probabilistic Data Structures (HyperLogLog subset filter, Bloom); Experimentation and small-N A/B testing; Analytics; Figma; Notion; Jira
 
 ## PROJECTS / ARTIFACTS
-- **Probabilistic Sketching Module:** Bloom vs. HLL benchmark and adoption rationale.
-- **GTM Funnel Tracker:** Inputs/outputs across channels with conversion and CAC proxy; keep/kill/iterate framework for PMF.
-- **UX Onboarding Case:** JTBD synthesis and guided flow leading to higher activation in tests.
-- **Back-Office Launch Kit:** Repeatable setup for cards, HRIS/payroll, accounting, benefits, and SOC 2 readiness across multiple geographies.
+- **Probabilistic subset module:** Bloom vs HLL register-dominance filter and adoption rationale.  
+- **GTM funnel tracker:** Inputs/outputs across channels with conversion and CAC proxy; keep/kill/iterate framework for PMF.  
+- **UX onboarding case:** JTBD synthesis and guided flow leading to higher activation in tests.  
+- **Back-office launch kit:** Repeatable setup for cards, HRIS/payroll, accounting, benefits, and SOC 2 readiness across multiple geographies.
 
 ## ADDITIONAL
-Cross-functional leadership • Remote and distributed team management • Workshops on LLMs for data professionals
+Cross-functional leadership; remote and distributed team management; workshops on LLMs for data professionals
