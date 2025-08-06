@@ -30,7 +30,7 @@ Remote • 2021 – 2023
 San Francisco, Cambridge, and international • 2016 – 2020; Advisor 2021 – Present
 - Launched operations in **11+ countries**; authored GTM/HR/finance/compliance playbooks; managed distributed cross-functional teams across time zones.
 - Sourced and supported early-stage investments; supported fundraising efforts as the organization raised **~$17M** during tenure.
-- Early backer support for founders who became category leaders (e.g., Bazaar, Kargo)
+- Early backer for founders who became category leaders (e.g., Bazaar, Kargo)
 
 ### Earlier Roles (Selected)
 Central Bank of Pakistan; Consultant, Dalberg; Government of Albania (Harvard CID); BMA Capital  
