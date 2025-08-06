@@ -30,9 +30,9 @@
 - **Keep:** in-person events + partner conversations (highest intent + warm intros).  
 - **Iterate:** message toward *“reduce requirements-gathering pain & compliance risk”*; lower-friction CTAs (15-min technical check), tighten ICP list.
 
-## Strategic Decision: Distribution (OSS vs. Multi-tenant SaaS)
+## Strategic Decision Spotlight: Distribution (OSS vs. Multi-tenant SaaS)
 
-**Proposal (mine):** Open-source the core (permissive license) and offer a managed service; use OSS to accelerate adoption within our ICP (Heads of Data Eng / Data Platform), reduce procurement friction, and drive bottom-up distribution.
+**Proposal:** Open-source the core (permissive license) and offer a managed service; use OSS to accelerate adoption within our ICP (Heads of Data Eng / Data Platform), reduce procurement friction, and drive bottom-up distribution.
 
 **Decision:** Team disagreed with OSS on IP grounds. We proceeded with a **closed, multi-tenant web app**.
 
