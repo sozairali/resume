@@ -25,7 +25,7 @@ Early users were **dropping off after sign-up**:
 | Metric (beta testers + 4 design partners) | Before | After |
 |---------------------------------------------|--------|-------|
 | Independent onboarding completion | ~0% (required 1-hr call) | **> 90 %** in early beta testing|
-| Setup call time (founder/eng) | ~60 min | < 10 min |
+| Setup call time (founder/eng) | ~60 min | ~ 15 min (5 min if Snowflake)|
 
 **Reflection**: Most of the remaining friction emerged from connection problems, especially with BigQuery. Also, Snowflake cluster provisioning needed to be at least Small for workloads.
 
