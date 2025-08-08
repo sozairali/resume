@@ -53,10 +53,10 @@ Central Bank of Pakistan; Consultant, Dalberg; Government of Albania (Harvard CI
 Python; Pandas; scikit-learn (applied); Git; Jupyter; LLM tooling (LangChain); Probabilistic Data Structures (HyperLogLog subset filter, Bloom); Experimentation and A/B testing; Analytics
 
 ## PROJECTS / ARTIFACTS
-- **Probabilistic subset module:** Bloom vs HLL register-dominance filter and adoption rationale.  
-- **GTM funnel tracker:** Inputs/outputs across channels with conversion and CAC proxy; keep/kill/iterate framework for PMF.  
-- **UX onboarding case:** JTBD synthesis and guided flow leading to higher activation in tests.  
-- **Back-office launch kit:** Repeatable setup for cards, HRIS/payroll, accounting, benefits, and SOC 2 readiness across multiple geographies.
+- [**Probabilistic subset module:** Bloom vs HLL register-dominance filter and adoption rationale.](https://github.com/sozairali/resume/blob/main/docs/probabilistic-subset-checks.md)  
+- [**GTM funnel tracker:** Inputs/outputs across channels with conversion and CAC proxy; keep/kill/iterate framework for PMF.](https://github.com/sozairali/resume/blob/main/docs/gtm-experiments.md)  
+- [**UX onboarding case:** JTBD synthesis and guided flow leading to higher activation in tests.](https://github.com/sozairali/resume/blob/main/docs/ux-onboarding-agent.md)  
+- [**Back-office launch kit:** Repeatable setup for cards, HRIS/payroll, accounting, benefits, and SOC 2 readiness across multiple geographies.] (https://github.com/sozairali/resume/blob/main/docs/back-office-launch-playbook.md)
 
 ## ADDITIONAL
 Cross-functional leadership; remote and distributed team management; workshops on LLMs for data professionals
